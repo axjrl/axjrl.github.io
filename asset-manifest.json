@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c156873.css",
+    "main.js": "/static/js/main.d3368f76.js",
+    "static/media/vhs_background.png": "/static/media/vhs_background.6b9aa8d48e7e60dfefd1.png",
+    "static/media/main.png": "/static/media/main.d251c83f68580f338ee0.png",
+    "static/media/Groomer.otf": "/static/media/Groomer.b180e3f29f99fe7d2ffa.otf",
+    "static/media/navbar_player.png": "/static/media/navbar_player.1814bc46b954415f231d.png",
+    "index.html": "/index.html",
+    "main.3c156873.css.map": "/static/css/main.3c156873.css.map",
+    "main.d3368f76.js.map": "/static/js/main.d3368f76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c156873.css",
+    "static/js/main.d3368f76.js"
+  ]
+}
