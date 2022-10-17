@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Buttons",
+        "value": "three"
+      },
+      {
+        "trait_type": "Background",
+        "value": "none"
+      }
+    ],
+    "description": "Tv collection",
+    "image": "ipfs://QmRn7xkBtCoJncjjCtk3zf28pxUK7EbRmHPtu19VvdKpck",
+    "name": "Tvs from 80s"
+  }
+  
